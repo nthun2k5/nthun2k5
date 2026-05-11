@@ -5,14 +5,12 @@
   />
 </h1>
 <img src="asset/bg.webp" width="100%" />
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,vue,go,tauri,rust,postgres,git,docker"
-    alt="Tech Stack"
-  />
-</p>
 
 <p align="center">
+  <img
+      src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,vue,go,tauri,rust,postgres,git,docker"
+      alt="Tech Stack"
+    />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:FFB86C&height=120&section=footer"
   />
