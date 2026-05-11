@@ -7,14 +7,6 @@
 <img src="asset/bg.webp" width="100%" />
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,vue,go,tauri,rust,postgres,git,docker"
-    alt="Tech Stack"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=TypeScript+%E2%9A%A1+JavaScript+%E2%9A%A1+NodeJS;NestJS+%E2%9A%A1+Vue+%E2%9A%A1+Go;Tauri+%E2%9A%A1+Rust+%E2%9A%A1+PostgreSQL;Git+%E2%9A%A1+Docker"
-    alt="Animated Tech Stack"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:FFB86C&height=120&section=footer"
   />
 </p>
