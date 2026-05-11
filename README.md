@@ -1,5 +1,9 @@
 # 🌌 Vũ trụ đơn giản
 
+<img src="https://animations.sunflower-land.com/animated_webp/0_v1_32_1_5_15_46_41_23/idle-small" style="width: 52.5px;">
+
+## Hi there! 👋 I'm nthun2k5
+
 > Một mô hình vũ trụ thu nhỏ: Mặt Trời ở trung tâm, 3 hành tinh quay theo quỹ đạo tròn.  
 > *Kéo chuột để xoay góc nhìn – không gian nhẹ nhàng, thư giãn.*
 
@@ -190,7 +194,20 @@
 
 ---
 
-## ✨ Giải thích
+## 🚀 About Me
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+---
+
+## ✨ Giải thích về Vũ trụ
 
 - **Mặt Trời** ở trung tâm, phát sáng.
 - **3 hành tinh** (Sao Thủy, Sao Kim, Trái Đất) quay trên quỹ đạo với tốc độ khác nhau.
